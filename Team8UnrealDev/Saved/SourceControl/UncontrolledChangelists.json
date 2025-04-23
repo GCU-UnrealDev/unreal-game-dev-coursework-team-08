@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/natha/Documents/Unreal Projects/thirdperson/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/natha/Documents/Unreal Projects/thirdperson/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/natha/Documents/Unreal Projects/thirdperson/Content/ThirdPerson/Blueprints/safe_Cube_002.uasset",
+				"C:/Users/natha/Documents/Unreal Projects/thirdperson/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/CY/HRM5Z19TGM9K58U77JYTAR.uasset",
+				"C:/Users/natha/Documents/Unreal Projects/thirdperson/Content/ThirdPerson/Blueprints/safe_Plane.uasset",
+				"C:/Users/natha/Documents/Unreal Projects/thirdperson/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/9H/V8IV1W5JLWW56VVZ14LZBF.uasset",
+				"C:/Users/natha/Documents/Unreal Projects/thirdperson/Content/Safe.uasset",
+				"C:/Users/natha/Documents/Unreal Projects/thirdperson/Content/Interact.uasset",
+				"C:/Users/natha/Documents/Unreal Projects/thirdperson/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/L9/1T6L95IMRU4VAD56220TWC.uasset",
+				"C:/Users/natha/Documents/Unreal Projects/thirdperson/Content/ThirdPerson/Blueprints/safetextures/safe_Material_001_BaseColor.uasset",
+				"C:/Users/natha/Documents/Unreal Projects/thirdperson/Content/safetextures/safe_Material_001_BaseColor.uasset",
+				"C:/Users/natha/Documents/Unreal Projects/thirdperson/Content/ThirdPerson/Blueprints/safetextures/safe_Material_001_Normal.uasset",
+				"C:/Users/natha/Documents/Unreal Projects/thirdperson/Content/safetextures/safe_Material_001_Normal.uasset",
+				"C:/Users/natha/Documents/Unreal Projects/thirdperson/Content/safetextures/safe_Material_001_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/natha/Documents/Unreal Projects/thirdperson/Content/ThirdPerson/Blueprints/safetextures/safe_Material_001_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/natha/Documents/Unreal Projects/thirdperson/Content/ThirdPerson/Blueprints/safetextures/safe_Material_002_BaseColor.uasset",
+				"C:/Users/natha/Documents/Unreal Projects/thirdperson/Content/safetextures/safe_Material_002_BaseColor.uasset",
+				"C:/Users/natha/Documents/Unreal Projects/thirdperson/Content/ThirdPerson/Blueprints/safetextures/safe_Material_002_Normal.uasset",
+				"C:/Users/natha/Documents/Unreal Projects/thirdperson/Content/safetextures/safe_Material_002_Normal.uasset",
+				"C:/Users/natha/Documents/Unreal Projects/thirdperson/Content/safetextures/safe_Material_002_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/natha/Documents/Unreal Projects/thirdperson/Content/ThirdPerson/Blueprints/safetextures/safe_Material_002_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/natha/Documents/Unreal Projects/thirdperson/Content/safetextures/safe_Material_BaseColor.uasset",
+				"C:/Users/natha/Documents/Unreal Projects/thirdperson/Content/ThirdPerson/Blueprints/safetextures/safe_Material_BaseColor.uasset",
+				"C:/Users/natha/Documents/Unreal Projects/thirdperson/Content/safetextures/safe_Material_Normal.uasset",
+				"C:/Users/natha/Documents/Unreal Projects/thirdperson/Content/ThirdPerson/Blueprints/safetextures/safe_Material_Normal.uasset",
+				"C:/Users/natha/Documents/Unreal Projects/thirdperson/Content/ThirdPerson/Blueprints/safetextures/safe_Material_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/natha/Documents/Unreal Projects/thirdperson/Content/safetextures/safe_Material_OcclusionRoughnessMetallic.uasset"
+			]
+		}
+	]
+}
